@@ -4,7 +4,7 @@
 This project focuses on the development and implementation of a classification model to predict the presence or absence of kyphosis, an abnormally excessive convex curvature of the spine, in children who have undergone corrective spinal surgery. The model utilizes Decision Trees and Random Forest Classifier algorithms to analyze data related to the patients' age, the number of vertebrae involved, and the number of the first vertebra operated on.
 
 ## Data
-The dataset used for this project is sourced from Kaggle and contains 81 rows and 4 columns. The dataset includes the following features:
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/abbasit/kyphosis-dataset) and contains 81 rows and 4 columns. The dataset includes the following features:
 
 #### Inputs:
 - Age: Age of the child in months.
